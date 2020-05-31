@@ -278,3 +278,27 @@ input{
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.imglogo{
+  height: 45px;
+  width: auto;
+}
+
+.containerlocation{
+  padding-left: 10vh;
+  padding-right: 10vh;
+  display: flex;
+  vertical-align: middle;
+  padding-top: 30%;
+}
+
+.locationtext{
+  margin-left: 20px;
+}
+
+.sociallogo{
+  height: 45px;
+  width: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
