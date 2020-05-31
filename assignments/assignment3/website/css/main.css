@@ -216,8 +216,8 @@ nav ul li {
 }
 
 .livetext {
-  margin-left: 10px;
-  margin-right: 20px;
+  margin-left: 20px;
+  margin-right: 40px;
   font-size: 20px;
 }
 
@@ -240,7 +240,7 @@ font-weight: 700;
 /* host */
 
 .contenthost{
-  padding-top: 10%;
+  padding-top: 8%;
   padding-bottom: 10%;
 }
 
